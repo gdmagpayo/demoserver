@@ -1,4 +1,5 @@
-[
+{
+  "data": [
   {
     "id": 1,
     "firstName": "Harry",
@@ -55,3 +56,4 @@
     "contactPersonPhoneNumber": "+6390033442233"
   }
 ]
+}
