@@ -54,6 +54,61 @@
     "address": "Apt. 556, Kulas Light",
     "contactPerson": "Xenophilius Lovegood",
     "contactPersonPhoneNumber": "+6390033442233"
+  },
+      {
+    "id": 6,
+    "firstName": "Draco",
+    "lastName": "Malfoy",
+    "birthDay": "1980-06-05",
+    "emailAddress": "draco_blondie@hogwarts.com",
+    "mobileNumber": "+639123456789",
+    "address": "Apt. 556, Slytherin Building",
+    "contactPerson": "Narcissa Malfoy",
+    "contactPersonPhoneNumber": "+6390033442233"
+  },
+  {
+    "id": 7,
+    "firstName": "Albus",
+    "lastName": "Dumbledore",
+    "birthDay": "1935-03-15",
+    "emailAddress": "dumbledore@hogwarts.com",
+    "mobileNumber": "+639123456789",
+    "address": "West Wing, Penthouse",
+    "contactPerson": "Minerva McGonagall",
+    "contactPersonPhoneNumber": "+639876543210"
+  },
+  {
+    "id": 8,
+    "firstName": "Severus",
+    "lastName": "Snape",
+    "birthDay": "1955-08-10",
+    "emailAddress": "severus_snape@hogwarts.com",
+    "mobileNumber": "+639123456689",
+    "address": "East Wing, Rm. 5",
+    "contactPerson": "Albus Dumbledore",
+    "contactPersonPhoneNumber": "+639123456789"
+  },
+  {
+    "id": 9,
+    "firstName": "Minerva",
+    "lastName": "McGonagall",
+    "birthDay": "1945-01-10",
+    "emailAddress": "msmcgonagall@hogwarts.com",
+    "mobileNumber": "+639123456789",
+    "address": "West Wing, Penthouse",
+    "contactPerson": "Albus Dumbledore",
+    "contactPersonPhoneNumber": "+639123456789"
+  },
+  {
+    "id": 10,
+    "firstName": "Sirius",
+    "lastName": "Black",
+    "birthDay": "1954-12-13",
+    "emailAddress": "sirius_theBlackwolf@gmail.com",
+    "mobileNumber": "+639123456689",
+    "address": "Far Fields",
+    "contactPerson": "Arthur Weasley",
+    "contactPersonPhoneNumber": "+639123456789"
   }
 ]
 }
